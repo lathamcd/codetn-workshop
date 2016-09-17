@@ -1,1 +1,13 @@
+.wrapper {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 800px;
+}
+.hero {
+    background-color: #999;
+    padding: 36px 0 40px 0;
+}
 
+.main {
+    padding: 30px 0;
+}
